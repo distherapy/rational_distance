@@ -19,3 +19,15 @@ def rational_dist():
 		else:
 			continue
 rational_dist()
+'''
+f=math.sqrt(2)
+g=math.sqrt(2)
+while f:
+	if b%1==0:
+		print(b)
+		break
+	else:
+		b=b+a
+		continue
+res=173062828
+'''
